@@ -78,9 +78,6 @@ input {
   .container {
     gap: 40px;
   }
-  .button-creator {
-    /* grid-template-columns: 1fr; */
-  }
   .titulo h1 {
     font-size: 3rem;
   }
